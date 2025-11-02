@@ -1,0 +1,13 @@
+CREATE TABLE pets (
+  id INTEGER,
+  name TEXT,
+  species TEXT,
+  age INTEGER
+);
+
+INSERT INTO pets (id, name, species, age) VALUES (1, 'Mochi', 'cat', 1); 
+INSERT INTO pets (id, name, species, age) VALUES (2, 'Prince Harry', 'cat', 1); 
+INSERT INTO pets (id, name, species, age) VALUES (3, 'Cloud', 'cat', 0);
+
+SELECT * 
+FROM pets;

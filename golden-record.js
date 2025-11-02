@@ -1,0 +1,14 @@
+console.log('hello look at this nice tree');
+console.log('       ,.,                             ');
+console.log('      MMMM_    ,..,                    ');
+console.log('        "_ "__"MMMMM          ,...,,   ');
+console.log(' ,..., __." --"    ,.,     _-"MMMMMMM  ');
+console.log('MMMMMM"___ "_._   MMM"_."" _ """"""    ');
+console.log(' """""    "" , \_.   "_. ."            ');
+console.log('        ,., _"__ \__./ ."              ');
+console.log('       MMMMM_"  "_    ./               ');
+console.log('        """"      (    )               ');
+console.log(' ._______________.-"____"---._.        ');
+console.log('  \                          /         ');
+console.log('   \________________________/          ');
+console.log('   (_)                    (_)          ');
