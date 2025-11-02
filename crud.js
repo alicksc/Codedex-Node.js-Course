@@ -1,0 +1,5 @@
+console.log("App Name: GitHub")
+console.log("Create:   Repositories")
+console.log("Read:     GitHub Followers")
+console.log("Update:   README file")
+console.log("Delete:   Repositories")
